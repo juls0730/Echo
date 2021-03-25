@@ -10,3 +10,7 @@ If you would like to use my code in your own project then you can follow these s
 1. make a new application in the [discord developer portal](https://discord.com/developers)
 1. make a bot in the bot tab copy your token this is needed to tell discord your API use is valid
 1. Now CD into the directory 
+1. put your token into the `token` variable at the top
+1. run `npm i`
+1. run `node .` once thats done
+1. Modify the code to your hearts content
